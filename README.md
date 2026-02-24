@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-    height="220" 
-    width="220"
+    height="300" 
+    width="300"
     src="https://m-habib-portfolio.vercel.app/Error%20404.gif"  />
 </div>
 
