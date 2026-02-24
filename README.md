@@ -5,7 +5,7 @@
 <h1>Hi There 👋</h1>
 
 <p>
-Front-End Developer with 2+ years of experience building scalable, high-performance web applications using React.js, Next.js, and TypeScript.
+Front-End Developer with 2+ years of experience building scalable, high-performance web applications using React.js, Next.js, and TypeScript. Skilled in state management (Redux, Zustand, Context API) and modern rendering techniques including SSR and SSG, focusing on performance, clean, and maintainable code
 </p>
 
 <a href="https://www.linkedin.com/in/mohamedhabibmowafy-dev/" target="_blank">
@@ -13,11 +13,6 @@ Front-End Developer with 2+ years of experience building scalable, high-performa
 </a>
 
 &nbsp;
-
-<a href="mailto:mhabib7000880@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28"/>
-</a>
-
 </td>
 
 <td width="50%" align="right">
@@ -31,14 +26,6 @@ src="https://m-habib-portfolio.vercel.app/space-boy-developer.gif"
 </td>
 </tr>
 </table>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Front-End Developer with 2+ years of experience building scalable, high-performance web applications using React.js, Next.js, and TypeScript. Skilled in state management (Redux, Zustand, Context API) and modern rendering techniques including SSR and SSG, focusing on performance, clean, and maintainable code.</p>
 
 ###
 
