@@ -5,14 +5,17 @@
 <h1>Hi There 👋</h1>
 
 <p>
-Front-End Developer with 2+ years of experience building scalable, high-performance web applications using React.js, Next.js, and TypeScript. Skilled in state management (Redux, Zustand, Context API) and modern rendering techniques including SSR and SSG, focusing on performance, clean, and maintainable code
+Front-End Developer with 2+ years of experience building scalable, high-performance web applications using React.js, Next.js, and TypeScript. Skilled in state management (Redux, Zustand, Context API) and modern rendering techniques including SSR and SSG, focusing on performance, clean, and maintainable code.
 </p>
 
 <a href="https://www.linkedin.com/in/mohamedhabibmowafy-dev/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28"/>
 </a>
-<a href="mailto:mhabib7000880@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28"/>
+
+&nbsp;
+
+<a href="mailto:mhabib7000880@gmail.com">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28"/>
 </a>
 </td>
 
