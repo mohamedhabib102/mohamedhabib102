@@ -11,6 +11,9 @@ Front-End Developer with 2+ years of experience building scalable, high-performa
 <a href="https://www.linkedin.com/in/mohamedhabibmowafy-dev/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28"/>
 </a>
+<a href="mailto:mhabib7000880@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28"/>
+</a>
 </td>
 
 <td width="50%" align="right">
