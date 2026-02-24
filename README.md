@@ -2,6 +2,7 @@
   <img 
     height="220" 
     width="220"
+    style="border-radius: 20px;"
     src="https://m-habib-portfolio.vercel.app/spaceboydeveloper-ezgif.com-video-to-gif-converter.gif"  />
 </div>
 
