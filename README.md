@@ -24,6 +24,7 @@ Front-End Developer with 2+ years of experience building scalable, high-performa
 
 <img 
 height="240"
+width="240"
 src="https://m-habib-portfolio.vercel.app/space-boy-developer.gif"
 />
 
