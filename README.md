@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-    height="300" 
-    width="300"
+    height="220" 
+    width="220"
     src="https://m-habib-portfolio.vercel.app/spaceboydeveloper-ezgif.com-video-to-gif-converter.gif"  />
 </div>
 
