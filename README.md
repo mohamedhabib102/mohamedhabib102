@@ -1,17 +1,21 @@
-<table>
-<tr>
-<td width="50%">
+<table width="100%">
+<tr border="0">
+<td width="50%" align="left">
 
-<h1>HI There 👋</h1>
+<h1>Hi There 👋</h1>
+
+<p>
+Front-End Developer with 2+ years of experience building scalable, high-performance web applications using React.js, Next.js, and TypeScript.
+</p>
 
 <a href="https://www.linkedin.com/in/mohamedhabibmowafy-dev/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:mhabib7000880@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28"/>
 </a>
 
 </td>
@@ -19,8 +23,7 @@
 <td width="50%" align="right">
 
 <img 
-height="230" 
-width="230"
+height="240"
 src="https://m-habib-portfolio.vercel.app/space-boy-developer.gif"
 />
 
