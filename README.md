@@ -11,12 +11,9 @@ Front-End Developer with 2+ years of experience building scalable, high-performa
 <a href="https://www.linkedin.com/in/mohamedhabibmowafy-dev/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28"/>
 </a>
-
-&nbsp;
 </td>
 
 <td width="50%" align="right">
-
 <img 
 height="240"
 width="240"
