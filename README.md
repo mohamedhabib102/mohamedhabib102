@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-    height="300" 
-    width="300"
+    height="230" 
+    width="230"
     src="https://m-habib-portfolio.vercel.app/space-boy-developer.gif"  />
 </div>
 
