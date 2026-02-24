@@ -1,5 +1,8 @@
 <div align="center">
-  <img height="200" src="https://m-habib-portfolio.vercel.app/spaceboydeveloper-ezgif.com-video-to-gif-converter.gif"  />
+  <img 
+    height="200" 
+    width="300"
+    src="https://m-habib-portfolio.vercel.app/spaceboydeveloper-ezgif.com-video-to-gif-converter.gif"  />
 </div>
 
 ###
